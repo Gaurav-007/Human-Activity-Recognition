@@ -123,3 +123,19 @@ Feature names are present in 'UCI_HAR_dataset/features.txt'
 # Problem Framework
 30 subjects(volunteers) data is randomly split to 70%(21) test and 30%(7) train data.
 Each datapoint corresponds one of the 6 Activities.
+
+# Source of Data
+Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data Data: Memorial Sloan Kettering Cancer Center (MSKCC)
+
+# Tools and Packages
+•	ipython-notebook - Python Text Editor
+•	sklearn - Machine learning library
+•	seaborn, matplotlib.pyplot, - Visualization libraries
+•	numpy, scipy- number python library
+•	pandas - data handling library
+•	mlxtend - used for stacking the models
+
+# Acknowledgments
+	Applied AI Course 
+
+
