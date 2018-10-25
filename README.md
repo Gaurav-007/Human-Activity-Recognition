@@ -100,8 +100,8 @@ Feature names are present in 'UCI_HAR_dataset/features.txt'
 
 # Data Size : 27MB
 
-### Quick overview of the dataset :
-# Accelerometer and Gyroscope readings are taken from 30 volunteers(referred as subjects) while performing the following 6 Activities.
+# Quick overview of the dataset :
+### Accelerometer and Gyroscope readings are taken from 30 volunteers(referred as subjects) while performing the following 6 Activities.
 
 1.Walking
 2.WalkingUpstairs
